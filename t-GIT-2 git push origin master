@@ -1,0 +1,17 @@
+[33mcommit ecdda6bb6216923b8a75bed6ef0aaf6310d3d3eb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ruslan Kashapov <dantess88@mail.ru>
+Date:   Wed Dec 14 11:26:26 2022 +0500
+
+    add git ignore
+
+[33mcommit c89da24f3ff1c379adc722213a13bc20b00e8b38[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ruslan Kashapov <dantess88@mail.ru>
+Date:   Wed Dec 14 10:26:51 2022 +0500
+
+    add algoritm to push data on git hub
+
+[33mcommit 0c1ef9b5679b03d9e1fb33a4a45fae49dc366a35[m
+Author: Ruslan Kashapov <dantess88@mail.ru>
+Date:   Wed Dec 14 10:10:17 2022 +0500
+
+    init project
